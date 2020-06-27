@@ -6,7 +6,7 @@ body{
 }
 body:hover {
 	text-decoration: none;
-	color: green
+	color: red
 }
 #logo{
 	height: 120px;
